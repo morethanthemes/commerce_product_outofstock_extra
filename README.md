@@ -1,5 +1,5 @@
 # commerce_product_outofstock_extra
-A simplified `Out of Stock` experience is introduced by just just a checkbox that marks that for a production variation. 
+A simplified `Out of Stock` experience is introduced by just a checkbox that marks that for a product variation. 
 
 ## The problem
 When the user selects a variation that is marked as `out of stock` we need to take out (hide) the add to cart and replace it with a call for action (e.g. contact us)
